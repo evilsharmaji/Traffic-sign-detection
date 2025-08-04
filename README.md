@@ -34,4 +34,5 @@ Traffic sign detection plays a vital role in autonomous vehicles, smart surveill
 ---
 
 **Author**: Priyanshu Sharma  
-**Connect**: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanshu-sharma-5a9a97294/))  
+**Connect**: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanshu-sharma-5a9a97294/ 
+
